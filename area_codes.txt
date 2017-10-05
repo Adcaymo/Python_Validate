@@ -1,0 +1,394 @@
+   011 international access
+		200 service access code
+    201 new jersey northeast
+			202 district of columbia
+			203 connecticut
+ 	204 manitoba
+    205 alabama birmingham central alabama
+		206 washington seattle
+     207 maine
+		208 idaho
+ 	209 california central
+   210 texas san antonio
+     211 coin phone refunds
+ 	212 new york manhattan
+		 213 california los angeles
+		214 texas dallas
+  215 pennsylvania southeast
+   216 ohio cleveland
+		 217 illinois south central
+     218 minnesota northern
+ 	219 indiana northern
+ 	224 illinois
+     225 louisiana
+ 	226 ontario
+		 227 maryland
+     228 mississippi
+   229 georgia split from 912
+ 231 Michigan
+			234 Ohio overlay 330
+			239 Florida 
+     240 Maryland
+ 	242 Bahamas Carribean
+     246 Barbados Carribean
+		248 Michigan Oakland Cty
+    250 British Columbia
+ 	251 Alabama 
+			252 North Carolina
+     253 Washington Tacoma
+  254 Texas Ft. Worth
+    256 Alabama Huntsville North Alabama
+		260 Indiana 
+    262 Wisconsin
+		264 Anguilla
+		 267 Pennsylvania overlay 215
+   268 Antigua Barbuda-Carib
+ 	269 Michigan 
+			270 Kentucky
+ 	274 Wisconsin
+  276 Virginia 
+   278 michigan overlay suspended
+		 281 texas houston area
+ 	283 ohio 
+		 284 british virgin island carribean
+   289 ontario 
+    300 service access code
+ 	301 maryland southern western
+   302 delaware
+		303 colorado denver suburban
+  304 west virginia
+     305 florida southeast
+    306 saskatchewan
+   307 wyoming
+		308 nebraska western
+     309 illinois west central
+  310 california los angeles
+ 311 reserved special function
+		312 illinois chicago
+		313 michigan eastern
+   314 missouri eastern
+  315 new york north central
+		316 kansas-wichita area
+		317 indiana central
+ 318 louisiana western
+    319 iowa eastern
+		320 minnesota
+   321 florida space coast melbourne
+		 323 california los angeles
+ 	325 texas 
+    330 ohio eastern
+  331 Illinois overlay deferred
+     334 Alabama Montgomery Mobile Lower Alabama
+ 	336 North Carolina
+			337 Louisiana
+		339 Massachusetts
+  340 US Virgin Islands
+		 341 California
+		343 Ontario
+   345 Cayman Islands
+    347 New York NYC-not Mnhtn split from 718
+		351 Massachusetts
+    352 Florida North
+  360 Washington Western
+    364 Kentucky
+ 	361 Texas split from 512
+ 369 california split from 707
+     380 ohio 
+ 	385 utah
+  386 florida 
+		400 service access code
+  401 rhode island
+			402 nebraska eastern
+  403 alberta southern
+    404 georgia metro atlanta
+			405 oklahomasouthern&western
+ 	406 montana
+  407 florida greater orlando
+     408 california central coastal
+    409 texas southeast
+ 	410 maryland eastern
+  411 directory services
+		412 pennsylvania pittsburgh
+		413 massachusetts western
+    414 wisconsin eastern
+			415 california san francisco
+			416 ontario city of toronto
+		 417 missouri southwest
+    418 quebec northeast
+ 419 ohio northwest
+    423 tennessee eastern
+    424 california overlay 310
+   425 Washington Seattle east suburbs
+     430 Texas
+    432 Texas 
+     434 Virginia 
+		 435 Utah
+     438 Quebec 
+   440 Ohio Northeast
+     441 Bermuda Carib
+    442 California
+   443 Maryland
+ 	445 Pennsylvania
+		450 Quebec Laval Montreal North
+		 456 Inbound International
+  458 Oregon
+   464 Illinois overlay deferred
+   469 Texas
+   470 Georgia 
+			473 Grenada Carib
+ 475 Connecticut overlay 203
+			478 Georgia
+   479 Arkansas 
+   480 arizona phoenix east valley
+ 	484 pennsylvania overlay 610
+   500 personal communication services
+			501 arkansas
+		502 kentucky western
+		 503 oregon portland tri metro
+    504 louisiana eastern
+ 	505 new mexico
+   506 new brunswick
+ 507 minnesota southern
+     508 massachusetts eastern
+		 509 washington eastern
+    510 california east bay area
+			512 texas southern
+     513 ohio southwest
+		 514 quebec montreal
+		 515 iowa central
+ 516 new york nassau county long island
+ 517 michigan central
+		 518 new york northeast
+ 519 ontario southwest
+ 520 arizona
+   530 california northern
+     534 wisconsin
+ 540 virginia
+		 541 Oregon
+   551 New Jersey 
+		555 Not Available
+ 	557 Missouri 
+     559 California Central
+    561 Florida Greater Palm Beach
+ 562 California Los Angeles
+    563 Iowa 
+ 564 Washington overlay 360
+ 567 Ohio
+		 570 Pennsylvania split 717
+  571 Virginia
+     573 Missouri
+  574 Indiana
+		575 New Mexico 
+		 580 Oklahoma
+		 581 Quebec
+  585 New York 
+  586 Michigan overlay
+  587 Alberta
+		 600 Canada Services
+     601 Mississippi
+   602 Arizona
+		603 New Hampshire
+     604 British Columbia
+     605 South Dakota
+			606 Kentucky Eastern
+ 607 New York South Central
+  608 Wisconsin SouthWest
+   609 New Jersey Southern
+   610 Pennsylvania
+    611 Repair Service 
+		612 Minnesota Minneapolis 
+		 613 Ontario SouthEast
+		 614 Ohio Columbus Area 
+ 	615 Tennessee Middle Western
+		616 Michigan Western
+ 617 Massachusetts Eastern
+		618 Illinois Southern
+		619 California San Diego
+     620 Kansas Southern
+     623 Arizona Phoenix West Valley
+   626 California Pasadena San Gabriel Valley
+		 627 California split from 707
+ 	628 California
+		630 Illinois Chicago suburbs
+   631 New York Suffolk County Long Island
+			636 Missouri
+    641 Iowa
+			646 New York Manhattan split from 212
+   647 Ontario
+		 649 Turks Caicos
+  650 California West Bay Area
+    651 Minnesota St Paul 
+   659 Alabama 
+   657 California
+			660 Missouri
+			661 California split from 805
+  662 Mississippi
+ 664 Montserrat-Carib
+     667 Maryland 
+			669 California
+  670 CNMI-Mariana Islands
+		 671 Guam
+		678 Georgia
+     679 Michigan overlay suspended
+    681 West Virginia
+ 	682 Texas
+   684 American Samoa
+  689 Florida 
+  700 Service Varies by LD Carrier
+		 701 North Dakota
+     702 Nevada Clark County
+     703 Virginia Northern Western
+ 	704 North Carolina Western
+   705 Ontario Northern
+   706 Georgia Northern
+    707 California North Coastal
+ 708 Illinois NorthEast
+		 709 Newfndlnd, Labradr
+  710 Gov Emer Telecom Svc
+ 711 Special Function
+		712 Iowa Western
+  713 Texas Houston
+			714 California Orange County
+    715 Wisconsin Northern
+  716 New York Western
+    717 Pennsylvania East Central
+ 	718 New York NYC except Manhattan
+ 	719 Colorado Southern Eastern
+ 	720 Colorado Denver suburban
+		724 Pennsylvania Western
+		 727 Florida Greater St Petersburg
+		731 Tennessee
+   732 New Jersey Central
+     734 Michigan Ann Arbor Ypsilanti
+   737 Texas
+     740 Ohio SouthEast
+  747 California
+  752 California
+   754 Florida 
+ 	757 Virginia
+ 	758 St. Lucia Carribbean
+  760 California San Diego
+		 762 Georgia
+     763 Minnesota Minneapolis Suburbs
+    764 California
+		765 Indiana Outside Indianapolis
+		767 Dominica
+			769 Mississippi
+ 770 Georgia
+ 	772 Florida 
+		 773 Illinois Chicago
+    774 Massachusetts
+			775 Nevada
+    778 British Columbia
+   779 illinois
+ 780 alberta, edmonton north
+		 781 massachusetts
+    784 st. vincent grenadines
+   785 kansas northern
+			786 florida overlay the 305 area
+ 787 puerto rico carribbean
+ 	800 toll free calling
+     801 utah
+     802 vermont
+			803 south carolina
+		804 virginia southeast
+  805 california southcentral
+  806 texas north panhandle
+ 807 ontario northwest
+		808 hawaii
+   809 carribbeanbean islands
+			810 michigan northern
+     811 special function
+     812 indiana southern
+    813 florida tampa area
+     814 pennsylvania west central
+   815 illinois northern
+     816 missouri northwest
+ 817 texas north central
+     818 california sf valley, la area
+		819 quebec western
+		822 future toll free service
+ 	828 north carolina
+			829 dominican rep
+		 830 texas south, near san antonio
+     831 california, central coastal
+		 832 texas, houston area
+		 833 future toll free service
+   835 pennsylvania
+  843 south carolina
+ 	844 future toll free service
+		845 new york
+			847 illinois chicago suburbs
+    848 new jersey 
+ 	850 florida panhandle
+			855 toll free service
+		856 new jersey southern
+    857 massachusetts
+     858 california split from 619
+ 	859 kentucky
+     860 connecticut
+ 	862 new jersey 
+			863 florida south central
+   864 south carolina
+    865 tennessee
+			866 toll free service
+			867 yukon n.w.territories
+    868 trinidad and tobago carribbean
+ 869 st.kitts and nevis carribbean
+		870 arkansas
+		872 illinois overlay deferred
+    876 jamaica
+   877 toll free calling
+		 878 pennsylvania
+  880 paid 800 service
+    881 paid 888 service
+ 882 paid 877 service
+ 	888 toll free calling
+ 	900 value added info svc code
+     901 tennessee western
+			902 pr edwrd is, nva sctia 
+    903 texas northeast
+		 904 florida northeast
+		 905 greater toronto area, except toronto
+ 906 michigan upper north
+     907 alaska
+ 908 new jersey central
+ 909 california riverside&s.bern
+			910 north carolina
+    911 emergency services
+		 912 georgia southern
+			913 kansas northeast
+			914 new york southern
+    915 texas western
+ 916 california sacramento
+  917 new york city
+		 918 oklahoma northeast
+   919 north carolina eastern
+ 	920 wisconsin
+		 925 california s.f.bay area
+     928 arizona 
+    931 tennessee
+		 935 california split from 619
+     936 texas split from 409
+     937 ohio dayton, sw ohio
+   939 puerto rico
+    940 texas ft. worth
+ 941 florida cape coral area
+  947 michigan
+  949 california orange county
+			951 california
+  952 minnesota minneapolis suburbs
+		954 florida greater ft lauderdale
+ 956 texas laredo brownsville
+ 	959 connecticut overlay 860
+ 970 colorado northern western
+		971 oregon
+ 972 texas dallas
+   973 new jersey northern
+			975 missouri 
+			978 massachusetts
+		 979 texas
+    980 north carolina
+ 	984 north carolina 
+			985 louisiana
+    989 michigan    
